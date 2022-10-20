@@ -6,7 +6,7 @@ for(i=0;i<str.length;i++)
    rstr=str[i]+rstr;
 }
 
-if(rstr!=str)
+if(rstr==str)
 {
 console.log("Yes")
 }

@@ -8,7 +8,7 @@ if(num%i==0)
 }
 
 }
-if(count==0)
+if(count==2)
 {
   console.log("yes")
 }
